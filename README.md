@@ -1,4 +1,4 @@
-Simple command-line application to print out a company name, in this case impact.com!
+Personalized java CLI. Prints out company name using library https://picocli.info/
 
 Steps on how to build and run:
 
